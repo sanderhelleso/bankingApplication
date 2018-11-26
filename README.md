@@ -8,9 +8,13 @@ In this project, you will develop an imaginary bank application that can store c
 <br>
 In the program, you should be able to read customer data in a text file.
 For example, this is a sample text file called data1.txt
+<br>
 3
+<br>
 7777 Tom Smith 1000 1 10.00
+<br>
 9999 Joe Otter 5000 1 100.25
+<br>
 8888 Alice Smith 2000 1 50.25
 <br>
 <br>
